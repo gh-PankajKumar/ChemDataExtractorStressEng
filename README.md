@@ -6,15 +6,15 @@ This repository contains code that was used to automatically-extract stress engi
 
 In this folder, a bespoke version of ChemDataExtractor for stress engineering is contained and can be installed. Included is TableDataExtractor which needs to be installed for the extraction of information contained in tables. 
 
-For further information on installation and usage, please refer to the [ChemDataExtractor documentation][http://chemdataextractor.org/docs/intro][[1]](#1).
+For further information on installation and usage, please refer to the [ChemDataExtractor documentation](http://chemdataextractor.org/docs/intro)[[1]](#1).
 
 ## Webscraping
 
-Python code to download and filter papers from Elsevier. To use the search and download functions, an API key is required from [Elsevier's Developer Portal][https://dev.elsevier.com/]
+Python code to download and filter papers from Elsevier. To use the search and download functions, an API key is required from [Elsevier's Developer Portal](https://dev.elsevier.com/)
 
 ## Post_Processing
 
-Post processing functions designed to filter the extracted records and organise them into database. Contained is a iPython notebook detailing the steps to process the extracted records. The [MaterialParser][https://github.com/CederGroupHub/MaterialParser] was used in some stages in post processing and is code developed by the Ceder Group [[2]](#2).
+Post processing functions designed to filter the extracted records and organise them into database. Contained is a iPython notebook detailing the steps to process the extracted records. The [MaterialParser](https://github.com/CederGroupHub/MaterialParser) was used in some stages in post processing and is code developed by the Ceder Group [[2]](#2).
 
 ## propertyExtractor.py
 
