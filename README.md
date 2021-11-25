@@ -20,6 +20,8 @@ Post processing functions designed to filter the extracted records and organise 
 
 An example of how the newly defined property models can be used to automatically-extract yield strength and grain size from the downloaded literature.
 
+For a walkthrough demonstration see `propertyExtractor_Example.ipynb` which gives an example of extracting Yield Strength from a previously downloaded Elsevier article. 
+
 ## References
 
 <a id="1">[1]</a>
