@@ -2,7 +2,7 @@
 
 This repository contains code that was used to automatically-extract stress engineering material properties from the literature which has been organised into folders for each step.
 
-Related paper: [https://doi.org/10.1038/s41597-022-01301-w]
+Related paper: https://doi.org/10.1038/s41597-022-01301-w
 ```
 @article{Kumar2022,
   title = {Auto-generating databases of Yield Strength and Grain Size using ChemDataExtractor},
