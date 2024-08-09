@@ -2,6 +2,23 @@
 
 This repository contains code that was used to automatically-extract stress engineering material properties from the literature which has been organised into folders for each step.
 
+Related paper: [https://doi.org/10.1038/s41597-022-01301-w]
+```
+@article{Kumar2022,
+  title = {Auto-generating databases of Yield Strength and Grain Size using ChemDataExtractor},
+  volume = {9},
+  ISSN = {2052-4463},
+  url = {http://dx.doi.org/10.1038/s41597-022-01301-w},
+  DOI = {10.1038/s41597-022-01301-w},
+  number = {1},
+  journal = {Scientific Data},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Kumar,  Pankaj and Kabra,  Saurabh and Cole,  Jacqueline M.},
+  year = {2022},
+  month = jun 
+}
+```
+
 ## ChemDataExtractorStressEng
 
 In this folder, a bespoke version of ChemDataExtractor for stress engineering is contained and can be installed. Included is TableDataExtractor which needs to be installed for the extraction of information contained in tables. 
